@@ -81,8 +81,9 @@
           {%- endif -%}
         </div>
       {%-when 'link_list'-%}
+        {%- if block.settings.menu != blank -%} 
         
-      
+        {%-endif-%}
     
     {% endcase %}
   {% endfor %}
