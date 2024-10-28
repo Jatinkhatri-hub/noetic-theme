@@ -28,7 +28,9 @@
   text-transform: uppercase;
 }
 
+.footer__menu-list 
+
 .footer__list-item {
   color: rgb(var(--color-foreground));
-  
+
 }
