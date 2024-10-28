@@ -83,6 +83,10 @@
   justify-content: center;
 }
 
+.copyright__content {
+  font: 1;
+}
+
 .copyright__content a {
   font: 400 16px 'Montserrat';
   color: rgb(var(--color-foreground));
