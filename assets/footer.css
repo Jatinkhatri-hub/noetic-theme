@@ -13,8 +13,8 @@
   flex-direction: column;
 }
 
-.footer__brand-description {
+.footer__brand-description p {
   text-align: center;
   font: 400 18px 'Montserrat';
-  color: rgb(--var(fore));
+  color: rgb(var(--color-forground));
 }
