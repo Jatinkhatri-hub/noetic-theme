@@ -157,7 +157,8 @@
   }
 
   .footer__policies {
-    
+    justify-content: center;
+    gap: 60px
   }
 }
 
