@@ -83,7 +83,7 @@
   justify-content: center;
 }
 
-.copyright__content {
+.copyright__content a {
   font: 400 16px 'Montserrat';
   color: rgb(var(--color-foreground));
   text-transform: uppercase;
