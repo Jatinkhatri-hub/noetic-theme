@@ -26,6 +26,7 @@
   align-items: center;
   gap: 15px;
   text-transform: uppercase;
+  padding: 0;
 }
 
 .footer__menu-list li {
@@ -37,3 +38,4 @@
   font: 500 21px 'Montserrat';
   text-decoration: none;
 }
+
