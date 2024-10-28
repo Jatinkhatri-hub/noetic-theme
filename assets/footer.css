@@ -85,6 +85,7 @@
 
 .copyright__content {
   font: 400 15px 'Montserrat';
+  color: rgb(var(--color-foreground));
 }
 
 .copyright__content a {
