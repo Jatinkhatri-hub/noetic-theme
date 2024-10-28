@@ -84,7 +84,7 @@
   gap: 3px;
 }
 
-.copyright__content {
+.footer__copyright-content {
   font: 400 16px 'Montserrat';
   color: rgb(var(--color-foreground));
 }
