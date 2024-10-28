@@ -134,7 +134,8 @@
   }
 
   .footer__menu-list {
-    flex
+    flex-direction: row;
+    gap: 70px
   }
 }
 
