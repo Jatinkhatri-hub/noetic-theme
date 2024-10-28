@@ -87,6 +87,7 @@
 .footer__copyright-content {
   font: 400 16px 'Montserrat';
   color: rgb(var(--color-foreground));
+  padding-top: ;
 }
 
 .footer__copyright-content a {
@@ -101,7 +102,7 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
-  margin-top: ;
+  margin-top: 25px;
 }
 
 .footer__policies-item a {
