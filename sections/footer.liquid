@@ -50,7 +50,7 @@
   {%- for block in section.blocks -%} 
     {%- case block.type -%} 
     {%- when 'brand_information' -%}
-      <div class="footer-block__brand-info">
+      <div class="footer__brand-info">
         {%- if settings.brand_image != blank -%}
           {%- assign brand_image_height = settings.brand_image_width
             | divided_by: settings.brand_image.aspect_ratio
