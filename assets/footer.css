@@ -158,7 +158,7 @@
   }
 
   .footer__policies {
-    justify-content: center;
+    justify-content: flex-end;
     gap: 60px
   }
 
