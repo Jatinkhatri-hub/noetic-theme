@@ -97,7 +97,8 @@
 
 .footer__policies {
   font: 400 14px 'Montserrat';
-  color: ;
+  color: rgb(var(--color-foreground));
+  
 }
 
 
