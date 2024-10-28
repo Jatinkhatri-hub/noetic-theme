@@ -76,9 +76,9 @@
   height: 44px;
 }
 
-.footer__copyright {
+.footer__copyright--wrapper {
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   align-items: center;
   justify-content: center;
 }
