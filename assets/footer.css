@@ -60,7 +60,7 @@
   transition: transform 0.25s ease-out;
 }
 
-#parent-link:hover::after {
+.footer__list-item:hover::after {
   transform: scaleX(1);
   transform-origin: bottom left;
 }
