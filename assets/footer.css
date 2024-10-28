@@ -87,7 +87,7 @@
 .footer__copyright-content {
   font: 400 16px 'Montserrat';
   color: rgb(var(--color-foreground));
-  padding-top: ;
+  padding-top: 15px;
 }
 
 .footer__copyright-content a {
