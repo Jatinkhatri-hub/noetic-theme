@@ -29,10 +29,10 @@
 }
 
 .footer__menu-list li {
-
+  list-style-type: none;
 }
 
 .footer__list-item {
   color: rgb(var(--color-foreground));
-
+  
 }
