@@ -165,7 +165,8 @@
 
   .footer__policies {
     justify-content: flex-end;
-    gap: 60px
+    gap: 60px;
+    margin: 0;
   }
 
   .footer__policies-item {
