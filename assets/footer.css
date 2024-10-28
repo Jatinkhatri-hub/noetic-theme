@@ -155,6 +155,8 @@
 
   .footer__copyright--wrapper {
     border: none;
+    width: 450px;
+    padding-inline: ;
   }
 
   .footer__policies {
