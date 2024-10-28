@@ -151,12 +151,13 @@
     padding: 0;
     border-top: 1px solid #FFFFFF96;
     justify-content: space-between;
+    padding-top: 35px;
   }
 
   .footer__copyright--wrapper {
     border: none;
     width: 450px;
-    padding-inline: ;
+    padding: 0;
   }
 
   .footer__policies {
