@@ -145,7 +145,10 @@
     font-size: 24px;
   }
 
-  
+  .footer__terms-wrapper {
+    flex-direction: row;
+    margin
+  }
 }
 
 
