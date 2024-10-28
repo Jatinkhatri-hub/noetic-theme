@@ -43,11 +43,11 @@
 
 
 
-#parent-link:hover {
+.footer__list-item:hover {
   color: rgb(var(--color-foreground));
 }
 
-#parent-link::after {
+.f::after {
   content: '';
   position: absolute;
   width: 100%;
