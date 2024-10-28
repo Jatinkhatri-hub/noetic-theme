@@ -150,6 +150,7 @@
     margin-inline: 120px;
     padding: 0;
     border-top: 1px solid #FFFFFF96;
+    justify-content: space-between;
   }
 
   .footer__copyright--wrapper {
@@ -160,6 +161,8 @@
     justify-content: center;
     gap: 60px
   }
+
+  .footer__p
 }
 
 
