@@ -41,10 +41,11 @@
       assign only_empty_brand = true
     endif
   -%}
-  <div class="footer__wrapper {% if settings.animations_reveal_on_scroll %} scroll-trigger animate--slide-in{% endif %}"
+  <div 
+  class="footer__wrapper {% if settings.animations_reveal_on_scroll %} scroll-trigger animate--slide-in{% endif %}"
   {% if settings.animations_reveal_on_scroll %}
-              data-cascade
-            {% endif %}>
+    data-cascade
+  {% endif %}>
 
   </div>
 
