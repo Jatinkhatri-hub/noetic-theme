@@ -16,5 +16,5 @@
 .footer__brand-description {
   text-align: center;
   font: 400 18px 'Montserrat';
-  color: rgb(--var);
+  color: rgb(--var(fore));
 }
