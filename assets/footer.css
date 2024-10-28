@@ -100,11 +100,11 @@
   color: rgb(var(--color-foreground));
   display: flex;
   align-items: center;
-  justify-content: center;
+  justify-content: s;
 }
 
 .footer__policies-item a {
-  font: 400 14px 'Montserrat';
+  font: 400 13px 'Montserrat';
   color: rgb(var(--color-foreground));
 }
 
