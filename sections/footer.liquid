@@ -86,9 +86,9 @@
           {%- for link in block.settings.menu.links -%} 
             <li>
               <a
-                href="{{}}"
+                href="{{ link.url }}"
               >
-
+                {{}}
               </a>
             </li>
           {%- endfor -%}
