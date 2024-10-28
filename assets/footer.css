@@ -152,7 +152,9 @@
     border-top: 1px solid #FFFFFF96;
   }
 
-  .footer__co
+  .footer__copyright--wrapper {
+    border: none;
+  }
 }
 
 
