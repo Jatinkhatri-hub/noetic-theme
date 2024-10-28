@@ -127,6 +127,8 @@
   .footer__wrapper {
     flex-direction: row;
     align-items: flex-start;
+    justify-content: space-between;
+    padding-inline: 120px;
   }
 
   .footer__brand-info {
