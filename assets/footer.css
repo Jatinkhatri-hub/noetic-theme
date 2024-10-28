@@ -126,7 +126,7 @@
 @media screen and (min-width: 789px) {
   .footer__wrapper {
     flex-direction: row;
-    align-items: baseline;
+    align-items: flex-start;
   }
 
   .footer__brand-info {
