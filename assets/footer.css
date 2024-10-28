@@ -88,9 +88,9 @@
 }
 
 .copyright__content a {
-  font: 400 16px 'Montserrat';
+  font: 400 15px 'Montserrat';
   color: rgb(var(--color-foreground));
-  text-transform: uppercase;
+  text-transform: capitalize;
 }
 
 
