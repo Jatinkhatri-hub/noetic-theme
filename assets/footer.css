@@ -100,7 +100,7 @@
   color: rgb(var(--color-foreground));
   display: flex;
   align-items: center;
-  justify-content: s;
+  justify-content: space-between;
 }
 
 .footer__policies-item a {
