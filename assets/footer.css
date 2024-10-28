@@ -39,6 +39,37 @@
   text-decoration: none;
 }
 
+
+.footer__menu-wrapper a {
+  font: 700 19px 'Rubik'
+  color: white;
+  text-align: center;
+  position: relative;
+}
+
+#parent-link:hover {
+  color: white;
+}
+
+#parent-link::after {
+  content: '';
+  position: absolute;
+  width: 100%;
+  transform: scaleX(0);
+  height: 2px;
+  bottom: 0;
+  left: 0;
+  background-color: white;
+  transform-origin: bottom right;
+  transition: transform 0.25s ease-out;
+}
+
+#parent-link:hover::after {
+  transform: scaleX(1);
+  transform-origin: bottom left;
+}
+
+
 .footer__list-social .svg-wrapper {
   width: 44px;
   height: 44px;
