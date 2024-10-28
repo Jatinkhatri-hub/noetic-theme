@@ -83,7 +83,11 @@
       {%-when 'link_list'-%}
         {%- if block.settings.menu != blank -%} 
         <ul class="footer__menu">
-          
+          {%- for link in block.settings.menu.links -%} 
+            <li>
+              
+            </li>
+          {%- endfor -%}
         </ul>
         {%-endif-%}
     
