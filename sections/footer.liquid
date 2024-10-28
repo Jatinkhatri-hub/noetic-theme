@@ -82,12 +82,12 @@
         </div>
       {%-when 'link_list'-%}
         {%- if block.settings.menu != blank -%} 
-        <ul class="footer__menu-">
+        <ul class="footer__menu-list">
           {%- for link in block.settings.menu.links -%} 
             <li>
               <a
                 href="{{ link.url }}"
-                class="footer__list"
+                class="footer__list-item"
               >
                 {{ link.title |  escape }}
               </a>
