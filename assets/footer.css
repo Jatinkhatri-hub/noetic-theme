@@ -88,6 +88,7 @@
   font: 400 16px 'Montserrat';
   color: rgb(var(--color-foreground));
   padding-top: 15px;
+  padding-inline: 25px;
 }
 
 .footer__copyright-content a {
