@@ -136,7 +136,9 @@
     align-items: baseline;
   }
 
-  .footer-brand
+  .footer__brand-description p {
+    text-align: start;
+  }
 
   .footer__menu-list {
     flex-direction: row;
