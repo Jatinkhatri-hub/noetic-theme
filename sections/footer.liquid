@@ -104,7 +104,7 @@
 
   <div class="footer__copyright--wrapper">
     <span class="copyright__content"
-      >&copy; {{ 'now' | date: '%Y' }}, {{ "Noetic"  | link_to: routes.root_url -}}
+      >&copy; {{ 'now' | date: '%Y' }}, {{ "Noetic "  | link_to: routes.root_url -}}
     </span>
     <span class="copyright__content">{{ powered_by_link }}</span>
   </div>
@@ -147,6 +147,17 @@
       "id": "show_social",
       "default": true,
       "label": "t:sections.footer.settings.show_social.label"
+    },
+    {
+      "type": "header",
+      "content": "t:sections.footer.settings.header__8.content",
+      "info": "t:sections.footer.settings.header__8.info"
+    },
+    {
+      "type": "checkbox",
+      "id": "show_policy",
+      "default": true,
+      "label": "t:sections.footer.settings.show_policy.label"
     },
     {
       "type": "header",
