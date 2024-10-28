@@ -113,7 +113,7 @@
         {%- for policy in shop.policies -%}
           {%- if policy != blank -%}
             <li>
-              <span class="footer__policies"
+              <span class="footer__policies-item"
                 ><a href="{{ policy.url }}">{{ policy.title | escape }}</a></span
               >
             </li>
