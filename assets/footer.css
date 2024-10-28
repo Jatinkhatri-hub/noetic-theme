@@ -162,7 +162,9 @@
     gap: 60px
   }
 
-  .footer__p
+  .footer__policies-item {
+    font-size: 18px;
+  }
 }
 
 
