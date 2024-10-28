@@ -35,4 +35,5 @@
 .footer__list-item {
   color: rgb(var(--color-foreground));
   font: 500 21px 'Montserrat';
+  text-decoration: none;
 }
