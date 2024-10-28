@@ -39,7 +39,8 @@
   text-decoration: none;
 }
 
-.footer__list-social {
-  
+.footer__list-social svg {
+  width: 44px;
+  height: 44px;
 }
 
