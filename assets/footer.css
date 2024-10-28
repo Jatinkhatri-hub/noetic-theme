@@ -98,7 +98,11 @@
 .footer__policies {
   font: 400 14px 'Montserrat';
   color: rgb(var(--color-foreground));
-  
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
+
+
 
 
