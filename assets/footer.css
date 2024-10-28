@@ -81,16 +81,16 @@
   flex-direction: row;
   align-items: center;
   justify-content: center;
-  gap: 
+  gap: 3px;
 }
 
 .copyright__content {
-  font: 400 15px 'Montserrat';
+  font: 400 16px 'Montserrat';
   color: rgb(var(--color-foreground));
 }
 
 .copyright__content a {
-  font: 400 15px 'Montserrat';
+  font: 400 16px 'Montserrat';
   color: rgb(var(--color-foreground));
   text-transform: capitalize;
 }
