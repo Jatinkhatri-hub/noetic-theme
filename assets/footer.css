@@ -37,18 +37,14 @@
   color: rgb(var(--color-foreground));
   font: 500 21px 'Montserrat';
   text-decoration: none;
-}
-
-
-.footer__menu-wrapper a {
-  font: 700 19px 'Rubik'
-  color: white;
-  text-align: center;
   position: relative;
 }
 
+
+
+
 #parent-link:hover {
-  color: white;
+  color: rgb(var(--color-foreground));
 }
 
 #parent-link::after {
