@@ -159,6 +159,7 @@
     border: none;
     width: 450px;
     padding: 0;
+    margin: 0;
   }
 
   .footer__policies {
@@ -168,6 +169,7 @@
 
   .footer__policies-item {
     font-size: 18px;
+    margin: 0;
   }
 }
 
