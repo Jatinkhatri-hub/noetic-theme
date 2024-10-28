@@ -129,7 +129,8 @@
   }
 
   .footer__brand-info {
-    width: ;
+    width: 300px;
+    align-items: baseline;
   }
 }
 
