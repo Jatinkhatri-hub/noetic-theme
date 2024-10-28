@@ -89,7 +89,7 @@
   color: rgb(var(--color-foreground));
   padding-top: 15px;
   padding-inline: 25px;
-  border-top: 1px solid;
+  border-top: 1px solid #FFFFFF96;
 }
 
 .footer__copyright-content a {
