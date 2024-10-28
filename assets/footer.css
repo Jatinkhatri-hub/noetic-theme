@@ -83,7 +83,9 @@
   justify-content: center;
 }
 
-.copyright__content
+.copyright__content {
+  font: 400
+}
 
 
 
