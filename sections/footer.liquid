@@ -109,12 +109,12 @@
     <span class="copyright__content">{{ powered_by_link }}</span>
   </div>
     {%- if section.settings.show_policy -%}
-      <ul class="policies list-unstyled">
+      <ul class="footer__policies list-unstyled">
         {%- for policy in shop.policies -%}
           {%- if policy != blank -%}
             <li>
               <span class="copyright__content"
-                ><a href="{{ policy.url }}">{{ policy.title | escape }}</a></
+                ><a href="{{ policy.url }}">{{ policy.title | escape }}</a></span
               >
             </li>
           {%- endif -%}
