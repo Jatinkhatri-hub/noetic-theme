@@ -89,7 +89,7 @@
   color: rgb(var(--color-foreground));
 }
 
-.copyright__content a {
+.footer__copyright-content a {
   font: 400 16px 'Montserrat';
   color: rgb(var(--color-foreground));
   text-transform: capitalize;
