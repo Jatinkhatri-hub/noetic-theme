@@ -260,7 +260,10 @@
   background: black;
 }
 
-.header__copyright
+.header__copyright-content {
+  color: white;
+  font: ;
+}
 
 
 
