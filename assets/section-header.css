@@ -21,5 +21,6 @@
 .navdrawer__wrapper {
   display: grid;
   background-color: rgb(var(--color-background));
+  position: fixed;
   
 }
