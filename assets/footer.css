@@ -17,6 +17,7 @@
   text-align: center;
   font: 400 18px 'Montserrat';
   color: rgb(var(--color-foreground));
+  margin: 1em 0;
 }
 
 .footer__brand-email {
