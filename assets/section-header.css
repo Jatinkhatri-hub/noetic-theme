@@ -84,5 +84,7 @@
   color: rgb(var(--color-foreground));
   text-align: start;
   margin: 0;
-  text
+  text-transform: uppercase;
 }
+
+.nav
