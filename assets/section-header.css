@@ -74,4 +74,6 @@
 .nav-drawer__content {
   display: flex;
   align-items: baseline;
+  justify-content: flex-start;
+  
 }
