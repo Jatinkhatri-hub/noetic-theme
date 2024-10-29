@@ -175,7 +175,7 @@
 }
 
 .parent_link {
-  font: 18px 'Futura PT Medium';
+  font: 18px 'Montserrat';
   text-transform: uppercase;
   color: #909090;
 }
@@ -190,7 +190,7 @@
   flex-direction: column;
   gap: 20px;
   align-items: baseline;
-  font: 18px 'Futura PT Medium';
+  font: 18px 'Montserrat';
   color: #110700;
   text-transform: capitalize;
   margin: 0;
