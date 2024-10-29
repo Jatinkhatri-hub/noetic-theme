@@ -46,6 +46,13 @@
             "product_review": "1200+ reviews"
           }
         },
+        "button_bxrge8": {
+          "type": "button",
+          "settings": {
+            "button_url": "shopify://products/focus",
+            "button_text": "SHOP NOW"
+          }
+        },
         "menu_N6Yza7": {
           "type": "menu",
           "settings": {
@@ -55,6 +62,7 @@
       },
       "block_order": [
         "product_yPHz6Q",
+        "button_bxrge8",
         "menu_N6Yza7"
       ],
       "settings": {
