@@ -311,7 +311,10 @@
   font: 500 13px 'Montserrat';
   background-color: #FAE2FF;
   border-radius: 2px;
-  di
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 2px 7px;
 }
 
 @media screen and (min-width: 786px) {
