@@ -132,7 +132,11 @@
 
 .product__value-points {
   display: flex;
-  flex-direction: ;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
 }
+
+.
 
 
