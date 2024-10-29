@@ -339,7 +339,10 @@
     transform-origin: bottom left;
   }
 
-  .navbar
+  .navbar__cart-btn svg {
+    width: 30px;
+    height: 30px;
+  }
 }
 
 
