@@ -309,7 +309,9 @@
 
 .product__badge {
   font: 500 13px 'Montserrat';
-  background-color: ;
+  background-color: #FAE2FF;
+  border-radius: 2px;
+  di
 }
 
 @media screen and (min-width: 786px) {
