@@ -307,7 +307,9 @@
   color: #3C1D51;
 } 
 
-.product
+.product__badge {
+  
+}
 
 @media screen and (min-width: 786px) {
 
