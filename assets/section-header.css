@@ -292,7 +292,12 @@
     display: none;
   }
 
-  .nav
+  .nav-bar__menu {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap:
+  }
 }
 
 
