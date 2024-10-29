@@ -100,7 +100,10 @@
   flex-direction: column;
   align-items: baseline;
   justify-content: center;
-  padding
+  padding-inline: 15px;
+  gap: 5px;
 }
+
+.prod
 
 
