@@ -56,7 +56,7 @@
         "menu_N6Yza7": {
           "type": "menu",
           "settings": {
-            "menu": "zenith-nav"
+            "menu": "noetic-nav"
           }
         }
       },
@@ -68,7 +68,7 @@
       "settings": {
         "color_scheme": "scheme-1",
         "menu_color_scheme": "",
-        "menu": "zenith-header",
+        "menu": "noetic-footer",
         "navdrawer__img": "shopify://shop_images/Untitled_Email_Header_1.png"
       }
     }
