@@ -130,6 +130,9 @@
   object-fit: cover;
 }
 
-.pr
+.product__value-points {
+  display: flex;
+  flex-direction: ;
+}
 
 
