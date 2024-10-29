@@ -109,6 +109,10 @@
   color: rgb(var(--color-foreground));
 }
 
-.product__review
+.product__review-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: ce;
+}
 
 
