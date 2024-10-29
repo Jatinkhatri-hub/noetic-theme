@@ -237,7 +237,12 @@
 .header__list-social {
   display: flex;
   justify-content: center;
-  
+
+}
+
+.header__list-social .svg-wrapper {
+  width: 36px;
+  height: 36px;
 }
 
 
