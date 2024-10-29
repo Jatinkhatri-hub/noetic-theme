@@ -235,7 +235,9 @@
 }
 
 .header__list-social {
-  display: fle;
+  display: flex;
+  justify-content: center;
+  
 }
 
 
