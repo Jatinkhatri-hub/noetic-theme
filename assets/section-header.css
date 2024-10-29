@@ -81,5 +81,5 @@
 
 .nav-drawer__title {
   font: 800 25px 'Montserrat';
-  color: rgb(var(--color-background));
+  color: rgb(var(--color-foreground));
 }
