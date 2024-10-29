@@ -169,6 +169,7 @@
 
 .nav-drawer__menu-wrapper {
   display: flex;
+  padding-inline: 10px;
 }
 
 .nav-drawer__parent-menu {
