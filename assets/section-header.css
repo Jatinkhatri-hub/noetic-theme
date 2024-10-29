@@ -321,6 +321,10 @@
   left: 10px;
 }
 
+.footer__brand-email {
+  
+}
+
 @media screen and (min-width: 786px) {
 
   .section-header__bar {
