@@ -183,6 +183,7 @@
 .parent_link a {
   color: #909090;
   margin-bottom: 20px;
+  text-decoration: none;
 }
 
 .nav-drawer__child-menu {
