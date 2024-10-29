@@ -53,7 +53,10 @@
     {% for block in section.blocks %} 
       {%-case block.type-%} 
         {%-when 'product'-%}
-          <a href="{{  }}" class="nav-drawer__product-card">
+          <div>
+            
+          </div>
+          <a href="{{ block.settings.product.url }}" class="nav-drawer__product-card">
             <div class="nav-drawer__product-info">
               <h2 class="product-title">{{ block.settings.product.title }}</h2>
               <div class="product__review-wrapper">
