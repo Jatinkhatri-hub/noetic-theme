@@ -288,6 +288,10 @@
     display: none;
   }
 
+  .nav-drawer__wrapper {
+    display: none;
+  }
+
   .nav
 }
 
