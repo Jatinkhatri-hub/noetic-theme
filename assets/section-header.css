@@ -288,7 +288,10 @@
   display: none;
 }
 
-.class
+.product__btn {
+  display: flex;
+  
+}
 
 @media screen and (min-width: 786px) {
 
