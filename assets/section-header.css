@@ -119,6 +119,7 @@
   align-items: center;
   justify-content: space-between;
   text-decoration: none;
+  position: relative;
 }
 
 .nav-drawer__product-info {
