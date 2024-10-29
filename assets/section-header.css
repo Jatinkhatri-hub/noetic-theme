@@ -107,6 +107,7 @@
 .product-title {
   font: 600 29px 'Montserrat';
   color: white;
+  margin: 0;
 }
 
 .product__review-wrapper {
