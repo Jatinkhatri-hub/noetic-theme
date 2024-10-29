@@ -17,27 +17,15 @@
         "brand_information_rm7JcD": {
           "type": "brand_information",
           "settings": {
-            "show_social": false
-          }
-        },
-        "link_list_7C3MYE": {
-          "type": "link_list",
-          "settings": {
-            "heading": "Quick links",
-            "menu": "main-menu"
+            "show_social": true
           }
         }
       },
       "block_order": [
-        "brand_information_rm7JcD",
-        "link_list_7C3MYE"
+        "brand_information_rm7JcD"
       ],
       "settings": {
-        "color_scheme": "scheme-a95b59ad-3f4e-4585-8aec-fbc029173b49",
-        "show_social": true,
-        "margin_top": 0,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "color_scheme": "scheme-a95b59ad-3f4e-4585-8aec-fbc029173b49"
       }
     }
   },
