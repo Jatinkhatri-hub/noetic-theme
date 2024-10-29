@@ -258,6 +258,8 @@
 .header__copyright--wrapper {
   display: flex;
   background: black;
+  align-items: center;
+  justify-content: center;
 }
 
 .header__copyright-content {
