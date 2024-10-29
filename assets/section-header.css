@@ -226,12 +226,14 @@
   justify-content: center;
   align-items: center;
   border-top: 1px solid #909090;
+  width: 100%;
 }
 
 .nav-drawer__social-wrapper h2 {
-  font: 400 16px '';
+  font: 400 16px 'Montserrat';
   color: #909090;
-
 }
+
+.header
 
 
