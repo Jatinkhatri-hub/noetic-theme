@@ -49,17 +49,15 @@
     </span>
   </div>
   <div class="nav-drawer__content">
+    <h2 class="nav-drawer__title">Shop</h2>
     {% for block in section.blocks %} 
       {%-case block.type-%} 
         {%-when 'product'-%}
-          
+
       {%-endcase-%}
     {% endfor %}
 
-    <h2 class="nav-drawer__title">Shop</h2>
-    <a class="nav-drawer__product-card">
-
-    </a>
+    <a class="nav-drawer__product-card"></a>
   </div>
  </div>
 </header>
