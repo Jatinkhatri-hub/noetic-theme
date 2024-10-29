@@ -70,9 +70,9 @@
               }}
             </div>
           {%- endif -%}
-          {%- if settings.brand_headline != blank -%}
+          {% comment %} {%- if settings.brand_headline != blank -%}
             <h2 class="footer-block__heading rte">{{ settings.brand_headline }}</h2>
-          {%- endif -%}
+          {%- endif -%} {% endcomment %}
           {%- if settings.brand_description != blank -%}
             <div class="footer__brand-description">{{ settings.brand_description }} <span class="footer__brand-email">{{ settings.brand_headline }}</span></div>
           {%- endif -%}
