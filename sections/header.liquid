@@ -3,7 +3,7 @@
 <header class="section-header color-{{ section.settings.color_scheme }} gradient">
  <div class="section-header__bar page-width">
   <button>
-    {{ 'icon-hamburger-2.svg' | a }}
+    {{ 'icon-hamburger-2.svg' | inline_asset_content }}
   </button>
   
   {%- if request.page_type == 'index' -%}
