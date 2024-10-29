@@ -304,6 +304,7 @@
     color: rgb(var(--color-foreground));
     text-transform: capitalize;
     text-decoration: none;
+    position: relative;
   }
 
 
