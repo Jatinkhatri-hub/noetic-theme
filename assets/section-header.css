@@ -125,6 +125,9 @@
   font: 400 13px 'Montserrat';
 }
 
-.nav-drawer
+.nav-drawer__product-img {
+  width: 100px;
+  object-fit: cover;
+}
 
 
