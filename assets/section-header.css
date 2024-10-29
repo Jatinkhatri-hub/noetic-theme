@@ -1,6 +1,5 @@
 .section-header__bar {
   display: flex;
-  justify-content: ;
+  justify-content: space-between;
   align-items: center;
-  
 }
