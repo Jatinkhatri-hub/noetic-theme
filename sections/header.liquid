@@ -81,6 +81,7 @@
               </p>
             </div>
           </div>
+        
 
       {%-endcase-%}
     {% endfor %}
@@ -137,7 +138,13 @@
     {
       "name": "Menu",
       "type": "menu",
-      "settings": []
+      "settings": [
+        {
+          "type": "link_list",
+          "id": "menu",
+          "label": "Menu"
+        }
+      ]
     }
   ]
 }
