@@ -1,3 +1,6 @@
 .section-header__bar {
-  dis
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
 }
