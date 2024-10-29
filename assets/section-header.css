@@ -96,6 +96,7 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
+  text-decoration: none;
 }
 
 .nav-drawer__product-info {
