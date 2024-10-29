@@ -12,6 +12,9 @@
   align-items: center;
   flex-direction: column;
 }
+.footer__brand-description {
+  text-align: center;
+}
 
 .footer__brand-description p {
   text-align: center;
