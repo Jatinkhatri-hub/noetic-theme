@@ -64,7 +64,7 @@
                   {{ 'icon-star-new.svg' | inline_asset_content }}
                   {{ 'icon-star-new.svg' | inline_asset_content }}
                 </div>
-                <span>{{ section.se }}</span>
+                <span>{{ block.settings.product_review }}</span>
               </div>
             </div>
           </a>
@@ -113,6 +113,11 @@
           "type": "product",
           "id": "product",
           "label": "Product"
+        },
+        {
+          "type": "text",
+          "id": "product_review",
+          "label": "Product Review"
         }
       ]
     }
