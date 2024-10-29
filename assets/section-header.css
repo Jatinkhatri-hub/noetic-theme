@@ -8,5 +8,6 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: rgb(var(--));
+  background-color: rgb(var(--color-background));
+  
 }
