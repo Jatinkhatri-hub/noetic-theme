@@ -53,4 +53,6 @@
   transition: transform 0.5sec ease-in-out;
 }
 
-.
+.nav-drawer__close-btn:hover {
+  transform: rotate(90deg);
+}
