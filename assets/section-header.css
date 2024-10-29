@@ -283,6 +283,10 @@
   justify-content: center; */
 }
 
+.nav-bar__menu {
+  display: none;
+}
+
 @media screen and (min-width: 786px) {
   .navdrawer__open-btn {
     display: none;
