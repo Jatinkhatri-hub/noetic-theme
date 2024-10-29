@@ -139,7 +139,9 @@
 
 .product__value-points p {
   font: 300 13px 'Montserrat';
-  
+  display: flex;
+  align-items: center;
+  margin: 0;
 }
 
 
