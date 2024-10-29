@@ -288,6 +288,9 @@
 }
 
 @media screen and (min-width: 786px) {
+
+  .section
+
   .navdrawer__open-btn {
     display: none;
   }
