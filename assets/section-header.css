@@ -298,6 +298,10 @@
   border: 2px solid #3C1D51;
 }
 
+.product__btn {
+  
+}
+
 @media screen and (min-width: 786px) {
 
   .section-header__bar {
