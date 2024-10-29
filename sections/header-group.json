@@ -38,6 +38,18 @@
     },
     "header": {
       "type": "header",
+      "blocks": {
+        "product_yPHz6Q": {
+          "type": "product",
+          "settings": {
+            "product": "focus",
+            "product_review": "1200+ reviews"
+          }
+        }
+      },
+      "block_order": [
+        "product_yPHz6Q"
+      ],
       "settings": {
         "color_scheme": "scheme-1",
         "menu_color_scheme": "",
