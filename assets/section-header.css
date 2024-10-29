@@ -262,13 +262,13 @@
   justify-content: center;
 }
 
-.header__copyright-content {
+.header__copyright-content a {
   color: white;
   font: 400 14px 'Montserrat';
   margin: 0;
-  align-items: center;
+  /* align-items: center;
   display: flex;
-  justify-content: center;
+  justify-content: center; */
 }
 
 
