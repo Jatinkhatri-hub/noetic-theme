@@ -19,6 +19,10 @@
   color: rgb(var(--color-foreground));
 }
 
+.footer__brand-email {
+  font: 700 18px 'Montserrat';
+}
+
 .footer__menu-list {
   display: flex;
   flex-direction: column;
