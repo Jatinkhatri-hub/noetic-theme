@@ -206,6 +206,7 @@
 
 .child_link a {
   color: #110700;
+  text-decoration: none;
 }
 
 .nav-drawer__parent-menu li {
