@@ -88,5 +88,8 @@
 }
 
 .nav-drawer__product-card {
-  height: ;
+  height: 100px;
+  border-radius: 5px;
+  overflow: hidden;
+  
 }
