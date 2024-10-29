@@ -225,12 +225,13 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  border-top: 1px solid #909090;
 }
 
 .nav-drawer__social-wrapper h2 {
   font: 400 16px 'Montserra';
   color: #909090;
-  
+
 }
 
 
