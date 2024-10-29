@@ -4,3 +4,6 @@
   align-items: center;
 }
 
+.navdrawer__open-btn {
+  display: flex;
+}
