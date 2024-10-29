@@ -250,7 +250,9 @@
   height: 36px;
 }
 
-
+.header__list-social .svg-wrapper svg path {
+  color: ;
+}
 
 
 
