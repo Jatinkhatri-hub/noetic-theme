@@ -30,6 +30,8 @@
   right: 0;
   overflow: hidden;
   max-width: 450px;
+  grid-template-rows: 60px 1fr;
+  
 }
 
 .nav-drawer__header {
