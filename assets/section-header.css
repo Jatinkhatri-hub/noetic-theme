@@ -299,7 +299,9 @@
     gap: 45px;
   }
 
-  .nav
+  .nav-bar__menu-item {
+    font: 500 16px ;
+  }
 }
 
 
