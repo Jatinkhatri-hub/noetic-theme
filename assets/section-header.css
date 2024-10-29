@@ -98,5 +98,6 @@
 .nav-drawer__product-info {
   display: flex;
   flex-direction: column;
-  align-items: ;
+  align-items: baseline;
+  justify-content: center;
 }
