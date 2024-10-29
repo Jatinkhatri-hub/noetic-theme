@@ -41,4 +41,7 @@
   color: white;
 }
 
-.
+.nav-drawer__logo {
+  width: 120px;
+  object-fit: cover;
+}
