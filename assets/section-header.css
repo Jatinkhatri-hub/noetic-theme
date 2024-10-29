@@ -302,6 +302,7 @@
   .nav-bar__menu-item {
     font: 500 16px 'Montserrat';
     color: rgb(var(--color-foreground));
+    text-transform: capitalize;
   }
 }
 
