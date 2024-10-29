@@ -322,7 +322,7 @@
 }
 
 .footer__brand-email {
-  font: 700 1
+  font: 700 18px 'Montserrat';
 }
 
 @media screen and (min-width: 786px) {
