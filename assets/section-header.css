@@ -39,9 +39,12 @@
   height: 60px;
   background-color: #3C1D51;
   color: white;
+  padding-inline: 12px;
 }
 
 .nav-drawer__logo {
   width: 120px;
   object-fit: cover;
 }
+
+.
