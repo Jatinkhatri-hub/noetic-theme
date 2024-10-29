@@ -106,7 +106,9 @@
 
 .product-title {
   font: 600 29px 'Montserrat';
-  
+  color: rgb(var(--color-foreground));
 }
+
+.
 
 
