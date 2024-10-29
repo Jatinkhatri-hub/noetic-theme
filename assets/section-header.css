@@ -50,5 +50,5 @@
 .nav-drawer__close-btn {
   display: flex;
   align-items: center;
-  tr
+  transition: transform 0.5sec ease-in-out;
 }
