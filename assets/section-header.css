@@ -72,5 +72,6 @@
 }
 
 .nav-drawer__content {
-  
+  display: flex;
+  align-items: baseline;
 }
