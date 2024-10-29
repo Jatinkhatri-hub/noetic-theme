@@ -48,5 +48,7 @@
 }
 
 .nav-drawer__close-btn {
-  
+  display: flex;
+  align-items: center;
+  tr
 }
