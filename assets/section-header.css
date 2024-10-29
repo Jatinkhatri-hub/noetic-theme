@@ -264,7 +264,9 @@
   color: white;
   font: 400 14px 'Montserrat';
   margin: 0;
-  
+  align-items: center;
+  display: flex;
+  justify-content: center;
 }
 
 
