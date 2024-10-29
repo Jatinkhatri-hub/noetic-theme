@@ -255,7 +255,10 @@
   color: #2F0A2F;
 }
 
-.header
+.header__copyright--wrapper {
+  display: flex;
+  background: ;
+}
 
 
 
