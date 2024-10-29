@@ -291,6 +291,7 @@
 
   .section-header__bar {
     height: 80px;
+    padding-inline: 100px;
   }
 
   .navdrawer__open-btn {
