@@ -283,8 +283,10 @@
   justify-content: center; */
 }
 
-@media screen and  {
+@media screen and (min-width: 786px) {
+  .navdrawer__open-btn {
   
+  }
 }
 
 
