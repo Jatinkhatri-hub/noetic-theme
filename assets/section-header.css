@@ -262,6 +262,10 @@
   justify-content: center;
 }
 
+.header__copyright-content {
+  display: ;
+}
+
 .header__copyright-content a {
   color: white;
   font: 400 14px 'Montserrat';
