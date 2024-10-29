@@ -45,10 +45,17 @@
             "product": "focus",
             "product_review": "1200+ reviews"
           }
+        },
+        "menu_N6Yza7": {
+          "type": "menu",
+          "settings": {
+            "menu": "zenith-nav"
+          }
         }
       },
       "block_order": [
-        "product_yPHz6Q"
+        "product_yPHz6Q",
+        "menu_N6Yza7"
       ],
       "settings": {
         "color_scheme": "scheme-1",
