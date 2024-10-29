@@ -47,12 +47,24 @@
   object-fit: cover;
 }
 
-.nav-drawer__close-btn {
+/* .nav-drawer__close-btn {
   display: flex;
   align-items: center;
   transition: transform 0.5sec ease-in-out;
 }
 
 .nav-drawer__close-btn:hover {
+  transform: rotate(90deg);
+} */
+
+.nav-drawer__close-btn {
+  display: flex;
+  align-items: center;
+  transform: rotate(0);
+  transition: transform 0.3s ease-in-out ;
+}
+
+.nav-drawer__close-btn:hover {
+  transition: transform 0.3s ease-in-out ;
   transform: rotate(90deg);
 }
