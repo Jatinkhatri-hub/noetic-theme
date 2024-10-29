@@ -223,7 +223,10 @@
 .nav-drawer__social-wrapper {
   display: flex;
   flex-direction: column;
-  ju
+  justify-content: center;
+  align-items: center;
 }
+
+.nav
 
 
