@@ -290,7 +290,9 @@
 
 .product__btn {
   display: flex;
-  
+  align-items: center;
+  justify-content: center;
+  padding: 
 }
 
 @media screen and (min-width: 786px) {
