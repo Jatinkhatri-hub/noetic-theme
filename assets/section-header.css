@@ -112,7 +112,8 @@
 .product__review-wrapper {
   display: flex;
   align-items: center;
-  justify-content: ce;
+  justify-content: flex-start;
+  gap: 5px;
 }
 
 
