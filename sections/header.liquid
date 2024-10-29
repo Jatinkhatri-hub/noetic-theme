@@ -50,7 +50,7 @@
   </div>
   <div class="nav-drawer__content">
     {% for block in section.blocks %} 
-      {}
+      {%-case block.type-%} {%-endcase-%}
     {% endfor %}
 
     <h2 class="nav-drawer__title">Shop</h2>
