@@ -37,7 +37,9 @@
   {%- endif -%}
 
   <div class="nav-bar__menu">
-    {}
+    {% for link in section.settings.menu.links %} 
+      
+    {% endfor %}
   </div>
 
   <a class="navbar__cart-btn" href="{{ routes.cart_url }}">
