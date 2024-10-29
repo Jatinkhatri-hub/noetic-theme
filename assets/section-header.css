@@ -311,7 +311,7 @@
   color: rgb(var(--color-foreground));
 }
 
-.footer__list-item::after {
+.nav-bar__menu-item::after {
   content: '';
   position: absolute;
   width: 100%;
@@ -324,7 +324,7 @@
   transition: transform 0.25s ease-out;
 }
 
-.footer__list-item:hover::after {
+.nav-bar__menu-item:hover::after {
   transform: scaleX(1);
   transform-origin: bottom left;
 }
